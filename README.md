@@ -15,7 +15,7 @@ pip install pandas
 2. Ubica el archivo `datos.csv` en el mismo directorio donde está el script.
 3. Ejecuta el script con:
 ```sh
-python cli.py datos.csv
+python cli.py data.csv
 ```
 
 ## Enfoque y Solución
